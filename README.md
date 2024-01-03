@@ -32,9 +32,6 @@ This project implements a Binary Search Tree (BST) as a template class in C++. T
 - Node comparison supports primitive data types and strings.
 - Size is determined by traversing the BST, not stored as a private variable.
 
-## Usage
-
-To utilize the BST class, include `BST.h` in your project and ensure C++11 support is enabled in your compiler.
 
 ## Testing
 
